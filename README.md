@@ -24,4 +24,14 @@ Just copy paste http://127.0.0.1:8000/ this any browser(Internet Explorer, Googl
 You will see this 
 ![](images/1.png)
 
+Now, Create the app using below command
+```
+python manage.py startapp app_name 
+
+example: python manage.py startapp api
+
+```
+
+
+
 
