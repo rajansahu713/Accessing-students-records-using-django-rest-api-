@@ -6,6 +6,14 @@ Create the project using below command
 ```
 django-admin startproject project_name 
 
+example: django-admin startproject student
+
+```
+
+Test it 
+```
+python manage.py runserver
+
 ```
 
 
