@@ -91,5 +91,14 @@ after that
 ```
 python manage.py migrate
 ```
-Note: if change anything in the table please run **python manage.py migrate** 
+Note: if you change anything in the table please run **python manage.py migrate** command
 
+Create superuser 
+```
+python manage.py createsuperuser
+```
+password(must) other(if your want)
+
+![](images/2.png)
+
+Now again run the server
