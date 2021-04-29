@@ -71,7 +71,7 @@ class Student(models.Model):
     address = models.CharField(max_length=100)
 ```
 
-After creating table open admin.py file to list the table in admin panel 
+After creating the table open admin.py file to list the table in the admin panel 
 
 ```
 from django.contrib import admin
@@ -97,7 +97,7 @@ Create superuser
 ```
 python manage.py createsuperuser
 ```
-password(must) other(if your want)
+password(must) other(if you want)
 
 ![](images/2.png)
 
